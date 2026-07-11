@@ -1,5 +1,11 @@
 # dtu-github-actions
 
+## 0.17.0
+
+### Patch Changes
+
+- 37a094e: Harden ephemeral DTU startup and cleanup for nested local runs, including safer host/network resolution and test coverage for loopback routing through the local runner.
+
 ## 0.16.2
 
 ### Patch Changes
